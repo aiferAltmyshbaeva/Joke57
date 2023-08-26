@@ -1,4 +1,4 @@
-package com.example.joke57
+package com.example.joke57.model
 
 data class JokeModel(
     val body: ArrayList<JokeAnswerModel>

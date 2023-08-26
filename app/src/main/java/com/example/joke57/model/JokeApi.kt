@@ -1,9 +1,8 @@
-package com.example.joke57
+package com.example.joke57.model
 
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Header
-
 
 interface JokeApi {
 

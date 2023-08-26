@@ -1,4 +1,4 @@
-package com.example.joke57
+package com.example.joke57.model
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
